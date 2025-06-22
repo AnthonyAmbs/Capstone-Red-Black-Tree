@@ -1,0 +1,35 @@
+MATH201,Discrete Mathematics
+CSCI300,Introduction to Algorithms,MATH201,CSCI200
+CSCI350,Operating Systems,CSCI300
+CSCI101,Introduction to Programming in C++,CSCI100
+CSCI100,Introduction to Computer Science
+CSCI301,Advanced Programming in C++,CSCI101
+CSCI400,Large Software Development,CSCI301,CSCI350,
+ENGL123
+CSCI200,Data Structures,CSCI101
+Calculus
+ENGL122,English Composition I
+MATH142,Precalculus with Limits
+HUMA100,Perspectives in the Humanities
+HUMA200,Applied Humanities,HUMA100
+MATH225,Calculus I,MATH142
+MATH243,Applied Statistics for STEM
+HIST100,Perspectives in History
+PHIL316,Business Ethics
+DATA220,Structured Databases
+CSCI230,Operating Platforms
+CSCI250,Software Development Lifecycle
+CSCI255,System Analysis and Design
+CSCI305,Software Security
+CSCI320,Software Testing,CSCI305
+CSCI330,Computer Graphics and Visualization
+CSCI340,Client/Server Development,CSCI200,CSCI255
+CSCI360,Mobile Architecture & Programming,CSCI340
+CSCI370,Current/Emerging Trends in CS
+CSCI465,Full Stack Development I
+MATH350,Applied Linear Algebra,MATH201,MATH225
+PHYS150,Physics I
+DATA260,Emerging Technologies/Big Data,DATA220,MATH243
+DATA375,Data Analysis Techniques,MATH303,DATA220
+MATH303,Applied Statistics II for STEM,MATH243,MATH225
+DATA325,Data Quality/Cleaning,DATA220
